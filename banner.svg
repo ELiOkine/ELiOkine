@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-label="Emmanuel Okine, software engineer in Accra">
+  <rect width="1500" height="420" fill="#141210"/>
+  <rect x="0" y="0" width="8" height="420" fill="#9a7340"/>
+  <text x="72" y="118" fill="#9a7340" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="6">ACCRA  ·  OPEN TO REMOTE</text>
+  <text x="72" y="210" fill="#f3f0ea" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="600">Emmanuel Okine</text>
+  <text x="72" y="268" fill="#c8c2b6" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic">Software engineer  ·  product UI for real devices</text>
+  <line x1="72" y1="310" x2="280" y2="310" stroke="#9a7340" stroke-width="1.5"/>
+  <text x="72" y="356" fill="#8a847c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" letter-spacing="1.5">iSmartPay  ·  Fleetly  ·  Akonta  ·  live demos on the portfolio</text>
+</svg>
