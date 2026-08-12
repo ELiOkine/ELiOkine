@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Emmanuel Okine, software engineer in Accra" width="100%" />
+  <img src="banner.png" alt="Emmanuel Okine, software engineer in Accra" width="100%" />
 </div>
 
 <br />
@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <img src="medals.svg" alt="Medals: 800k plus Ghana cedis volume, 15 modules, Cambridge data science, live demos" width="100%" />
+  <img src="medals.png" alt="Medals: 800k plus GHS volume, 15 modules, Cambridge data science, live demos" width="100%" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@ Frontend lead on production fintech in Ghana. Live demos you can click through, 
 
 | Product | What it is | Proof |
 | :--- | :--- | :--- |
-| **[iSmartPay](https://emmanuel-okine.vercel.app/projects/ismartpay)** | Fintech platform, 15 modules, live money movement | 800k+ GH₵ processed · [try the demo](https://emmanuel-okine.vercel.app/projects/ismartpay) |
+| **[iSmartPay](https://emmanuel-okine.vercel.app/projects/ismartpay)** | Fintech platform, 15 modules, live money movement | 800k+ GHS processed · [try the demo](https://emmanuel-okine.vercel.app/projects/ismartpay) |
 | **[Fleetly](https://emmanuel-okine.vercel.app/projects/fleetly)** | Fleet ops UI for operators, workshops, suppliers | 15+ modules shipped · [try the demo](https://emmanuel-okine.vercel.app/projects/fleetly) |
 | **[Akonta](https://emmanuel-okine.vercel.app/projects/akonta)** | Offline first bookkeeping for market traders | EN / Twi · [try the demo](https://emmanuel-okine.vercel.app/projects/akonta) |
 
@@ -59,7 +59,7 @@ Production work lives in private repos. The public proof is the portfolio: click
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,postgres,supabase,figma,git,github&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, Postgres, Supabase, Figma, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,postgres,supabase,figma,git,github&theme=dark" alt="TypeScript JavaScript React Next.js Vite Tailwind Node.js Postgres Supabase Figma Git GitHub" />
 </div>
 
 <br />
