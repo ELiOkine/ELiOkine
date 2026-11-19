@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C33"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E2A44" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <g opacity="0.9">
+    <rect x="820" y="70" width="300" height="170" rx="12" fill="#0F172A" stroke="#24324F"/>
+    <rect x="840" y="90" width="80" height="10" rx="5" fill="#334155"/>
+    <rect x="840" y="112" width="120" height="44" rx="8" fill="#13233F"/>
+    <rect x="972" y="112" width="128" height="44" rx="8" fill="#13233F"/>
+    <rect x="852" y="124" width="50" height="8" rx="4" fill="#2DD4BF"/>
+    <rect x="984" y="124" width="60" height="8" rx="4" fill="#60A5FA"/>
+    <polyline points="840,220 880,200 920,208 960,180 1000,188 1040,160 1100,170" fill="none" stroke="url(#acc)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="70" y="128" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Emmanuel Okine</text>
+  <rect x="72" y="148" width="72" height="5" rx="2.5" fill="url(#acc)"/>
+  <text x="70" y="196" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#CBD5E1">Frontend engineer · Fintech &amp; data dashboards</text>
+  <text x="70" y="232" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#94A3B8">React · Next.js · TypeScript · Figma · Python  —  MSc Business Analytics, Exeter</text>
+</svg>
